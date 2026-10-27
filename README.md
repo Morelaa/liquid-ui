@@ -11,6 +11,18 @@
   [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)](#)
 
   <p align="center">
+    <a href="https://morelaa.github.io/liquid-ui/">
+      <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-Klik_di_sini-00c853?style=for-the-badge" alt="Live Demo" />
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="https://morelaa.github.io/liquid-ui/">
+      <img src="preview.png" alt="Preview Liquid UI" width="85%" />
+    </a>
+  </p>
+
+  <p align="center">
     <b>Koleksi komponen antarmuka web dalam satu file <code>index.html</code>, tanpa framework dan tanpa library.</b>
     <br />
     <i>15 komponen interaktif: navigasi liquid, sidebar, login slider, dropdown, kartu 3D, glassmorphism, neumorphism, dan dukungan mode gelap.</i>
@@ -18,6 +30,7 @@
 
   ---
 
+  [🌐 Live Demo](https://morelaa.github.io/liquid-ui/) •
   [🛠️ Tech Stack](#-tech-stack--teknologi) •
   [✨ Fitur Unggulan](#-fitur-unggulan) •
   [🧱 Daftar Komponen](#-daftar-komponen) •
@@ -169,9 +182,7 @@ flowchart LR
 
 Hasil akhirnya bisa dibuka di:
 
-```text
-https://Morelaa.github.io/liquid-ui/
-```
+👉 **[https://morelaa.github.io/liquid-ui/](https://morelaa.github.io/liquid-ui/)**
 
 <br />
 
